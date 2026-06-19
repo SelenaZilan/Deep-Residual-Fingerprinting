@@ -108,3 +108,7 @@ TARGET_E2E_FPR = 0.05
 ```
 
 The script reports F1, TPR, FPR, average alert packet index, and observation saving.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
