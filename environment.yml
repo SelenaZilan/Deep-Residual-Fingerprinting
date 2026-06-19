@@ -1,0 +1,21 @@
+name: deep_residual
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - tqdm
+  - pillow
+  - requests
+  - bottleneck
+  - scapy
+  - pip
+  - pip:
+    - torch==2.10.0
+    - torchvision==0.25.0
+    - seaborn==0.13.2

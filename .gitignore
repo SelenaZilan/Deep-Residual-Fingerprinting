@@ -1,0 +1,6 @@
+CIC-IDS-2017/GeneratedLabelledFlows/*
+CIC-IDS-2017/raw_data_pcap/*
+preprocessed/*
+__pycache__/
+.vscode/
+
