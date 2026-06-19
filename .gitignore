@@ -4,3 +4,6 @@ preprocessed/*
 __pycache__/
 .vscode/
 
+!CIC-IDS-2017/GeneratedLabelledFlows/.gitkeep
+!CIC-IDS-2017/raw_data_pcap/.gitkeep
+!preprocessed/.gitkeep
