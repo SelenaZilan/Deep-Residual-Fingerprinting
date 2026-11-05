@@ -2,6 +2,8 @@
 
 Official repository for the paper **"Deep Residual Fingerprinting: A Self-Supervised Spatio-Temporal Transformer for Network Anomaly Detection"** by **Zilan Wang, Rongxing Lu, and Mohammad Zulkernine**.
 
+**🎉 Accepted to IEEE GLOBECOM 2026! 🎉**
+
 This code implements a self-supervised spatio-temporal Transformer framework that learns normal network dynamics exclusively from benign traffic through multi-modal next-packet prediction of semantic embeddings, inter-arrival times, and packet lengths. Prediction residuals are distilled into a compact 12-dimensional statistical fingerprint and classified via Isolation Forests at early observation depths (10, 20, 50 packets) and upon flow termination.
 
 ## Setup
